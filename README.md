@@ -20,7 +20,7 @@ Abaixo segue layout do projeto.
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Calculadora" title="Calculadora" src="assets/img/web.png" width="300px">
+  <img alt="Calculadora" title="Calculadora" src="assets/img/web.png" width="1000px">
 
 
 ### Mobile
